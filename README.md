@@ -1,7 +1,7 @@
 Hi, I’m @Alpha-Cyberus!
 I'm from England but I live in Czechia. I started out studying to be a game developer but now I'm more interested in becoming a web developer.
 
-Learning: HTML, CSS, JS, UI/ UX design, batch scripting, and whatever seems fun.
+Learning: Mainly HTML, CSS, JS, UI/ UX design, but I like to mess around with Python and Batch scripting just for fun.
 My favorite IDE is Atom, it's great!
 
 I'm working on various small personal projects to learn more, but would love to collaborate on something interesting.

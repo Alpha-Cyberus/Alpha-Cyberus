@@ -7,6 +7,6 @@ My favorite IDE is Atom, it's great!
 Before focusing on expanding my web development skills I studied C++ and C# for several years with a hint of Java and .NET.
 
 I'm working on various small personal projects to learn more, but would love to collaborate on something interesting.
-Contact me here or on Discord, my name is Alpha Cyberus#6157.
+Contact me here, on Discord (Alpha Cyberus#6157), or at LinkedIn https://www.linkedin.com/in/luffyobrien/.
 
 Fun fact: Once I cut down a tree just by looking at it. It's true, I saw it with my own eyes!

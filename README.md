@@ -1,6 +1,6 @@
 Hi, I’m @Alpha-Cyberus!
 I'm from England but I live in Czechia. I started out studying to be a game developer but now I'm more interested in becoming a web or software developer.
-This git profile is pretty new since I recently got back from several years of volunteer service, but I'll continually be adding a range of fun little side prijects to build a sweet portfolio so keep an eye on this space!
+This git profile is pretty new since I recently got back from several years of volunteer service, but I'll continually be adding a range of fun little side projects to build a sweet portfolio so keep an eye on this space!
 
 Learning: Mainly HTML, CSS, JS, UI/ UX design, but I also like to mess around with Python and Batch scripting just for fun.
 My favorite IDE is Atom, it's great!
